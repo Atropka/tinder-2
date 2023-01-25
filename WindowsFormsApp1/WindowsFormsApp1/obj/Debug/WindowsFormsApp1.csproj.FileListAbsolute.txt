@@ -31,3 +31,14 @@ C:\Users\kotol\Documents\GitHub\tinder-2\Tinder-simple-clone\WindowsFormsApp1\Wi
 C:\Users\kotol\Documents\GitHub\tinder-2\Tinder-simple-clone\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
 C:\Users\kotol\Documents\GitHub\tinder-2\Tinder-simple-clone\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\kotol\Documents\GitHub\tinder-2\Tinder-simple-clone\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kotol\Documents\GitHub\tinder-2\tinder-2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kotol\Documents\GitHub\tinder-2\tinder-2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kotol\Documents\GitHub\tinder-2\tinder-2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kotol\Documents\GitHub\tinder-2\tinder-2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\kotol\Documents\GitHub\tinder-2\tinder-2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kotol\Documents\GitHub\tinder-2\tinder-2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pairs.resources
+C:\Users\kotol\Documents\GitHub\tinder-2\tinder-2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kotol\Documents\GitHub\tinder-2\tinder-2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.settings.resources
+C:\Users\kotol\Documents\GitHub\tinder-2\tinder-2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kotol\Documents\GitHub\tinder-2\tinder-2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kotol\Documents\GitHub\tinder-2\tinder-2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
